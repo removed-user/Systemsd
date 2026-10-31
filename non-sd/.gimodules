@@ -1,0 +1,3 @@
+[submodule = "tangle"]
+   path = tangle
+   url = https://github.com/chimera-linux/tangle.git
