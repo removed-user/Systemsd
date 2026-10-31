@@ -1,0 +1,3 @@
+[submodule "opensysusers"]
+   path = opensysusers
+   url = https://github.com/removed-user/opensysusers.git
