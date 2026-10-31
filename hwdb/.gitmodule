@@ -1,3 +1,7 @@
 [submodule gardnerdb]
    path = "gardnerdb"
    url = https://git.pinkro.se/Rose/gardenhouse/gardenerdb.git
+
+[submodule hwdb]
+   path = "hwdb"
+   url = https://git.pinkro.se/Rose/gardenhouse/hwdb.git
