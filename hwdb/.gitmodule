@@ -1,0 +1,3 @@
+[submodule gardnerdb]
+  path = "gardnerdb"
+url = https://git.pinkro.se/Rose/gardenhouse/gardenerdb.git
