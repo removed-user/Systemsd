@@ -1,3 +1,7 @@
 [submodule "Mindev"]
    path = Mindev
    url = https://github.com/removed-user/Mindev
+
+[submodule "suggestions"]
+   path = suggestions
+   url = https://github.com/removed-user/awesome-systemd
